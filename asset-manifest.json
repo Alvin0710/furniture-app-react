@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/furniture-app-react/static/css/main.bda82824.css",
-    "main.js": "/furniture-app-react/static/js/main.3198e5c0.js",
+    "main.css": "/furniture-app-react/static/css/main.2d399328.css",
+    "main.js": "/furniture-app-react/static/js/main.3d8bcd3e.js",
     "static/media/product_6.svg": "/furniture-app-react/static/media/product_6.8af128ec788543bd116f0ae680e1dff9.svg",
     "static/media/product_2.svg": "/furniture-app-react/static/media/product_2.7540924f1db1effa94ce9951899e9e97.svg",
     "static/media/product_1.svg": "/furniture-app-react/static/media/product_1.bcb03b69b0ba1d2871508ee6783daa78.svg",
@@ -22,11 +22,11 @@
     "static/media/logo__fortune.svg": "/furniture-app-react/static/media/logo__fortune.f026df8dbf295d8ca28b6357ac8565b7.svg",
     "static/media/circle__testimoni.svg": "/furniture-app-react/static/media/circle__testimoni.b1b146002a50d3122ebe866a12f23f34.svg",
     "index.html": "/furniture-app-react/index.html",
-    "main.bda82824.css.map": "/furniture-app-react/static/css/main.bda82824.css.map",
-    "main.3198e5c0.js.map": "/furniture-app-react/static/js/main.3198e5c0.js.map"
+    "main.2d399328.css.map": "/furniture-app-react/static/css/main.2d399328.css.map",
+    "main.3d8bcd3e.js.map": "/furniture-app-react/static/js/main.3d8bcd3e.js.map"
   },
   "entrypoints": [
-    "static/css/main.bda82824.css",
-    "static/js/main.3198e5c0.js"
+    "static/css/main.2d399328.css",
+    "static/js/main.3d8bcd3e.js"
   ]
 }
