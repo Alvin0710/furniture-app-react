@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/furniture-app-react/static/css/main.bda82824.css",
+    "main.js": "/furniture-app-react/static/js/main.3198e5c0.js",
+    "static/media/product_6.svg": "/furniture-app-react/static/media/product_6.8af128ec788543bd116f0ae680e1dff9.svg",
+    "static/media/product_2.svg": "/furniture-app-react/static/media/product_2.7540924f1db1effa94ce9951899e9e97.svg",
+    "static/media/product_1.svg": "/furniture-app-react/static/media/product_1.bcb03b69b0ba1d2871508ee6783daa78.svg",
+    "static/media/hero__img.png": "/furniture-app-react/static/media/hero__img.164e0bbf170a4e79271f.png",
+    "static/media/product_3.svg": "/furniture-app-react/static/media/product_3.a17a017b4ff07ab3f0a7c3e646de992a.svg",
+    "static/media/product_4.svg": "/furniture-app-react/static/media/product_4.578e7dd4a03120beada0048c2921602d.svg",
+    "static/media/img__about.png": "/furniture-app-react/static/media/img__about.abf1e57c5666869590d9.png",
+    "static/media/img__testimoni.svg": "/furniture-app-react/static/media/img__testimoni.b01c042442012200ddd857aea025433a.svg",
+    "static/media/product_5.svg": "/furniture-app-react/static/media/product_5.4601a6bfd2eb48fe084ae6c0fbc0e87b.svg",
+    "static/media/logo__business web.svg": "/furniture-app-react/static/media/logo__business web.8345be04622c7fa4722fbd9b0c60b6e6.svg",
+    "static/media/hero__dots.svg": "/furniture-app-react/static/media/hero__dots.49ab4f16ee5ee76eb2e6dab24f521d3b.svg",
+    "static/media/logo__entrepreneur.svg": "/furniture-app-react/static/media/logo__entrepreneur.a367a15822eabc8b88f1009d86c68fbc.svg",
+    "static/media/logo__microsoft.svg": "/furniture-app-react/static/media/logo__microsoft.f99dd2e6287fe2c39b7344fe93a0e5cd.svg",
+    "static/media/icon__fire.svg": "/furniture-app-react/static/media/icon__fire.07a2ab2b5625344f5495622400a8bf45.svg",
+    "static/media/icon__deals.svg": "/furniture-app-react/static/media/icon__deals.97adfb49d95c3ef0e286ace8184eb44a.svg",
+    "static/media/icon__testimoni.svg": "/furniture-app-react/static/media/icon__testimoni.92f9915ba8b22e2d5ea7f299a91cebaf.svg",
+    "static/media/logo__mashable.svg": "/furniture-app-react/static/media/logo__mashable.e33f7a1fc9607b5b5b5b46063d62ca22.svg",
+    "static/media/logo__fortune.svg": "/furniture-app-react/static/media/logo__fortune.f026df8dbf295d8ca28b6357ac8565b7.svg",
+    "static/media/circle__testimoni.svg": "/furniture-app-react/static/media/circle__testimoni.b1b146002a50d3122ebe866a12f23f34.svg",
+    "index.html": "/furniture-app-react/index.html",
+    "main.bda82824.css.map": "/furniture-app-react/static/css/main.bda82824.css.map",
+    "main.3198e5c0.js.map": "/furniture-app-react/static/js/main.3198e5c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bda82824.css",
+    "static/js/main.3198e5c0.js"
+  ]
+}
